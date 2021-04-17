@@ -1,4 +1,1 @@
-Hola soy victor y aun no comprendo git
-Me gusta jugar videjuegos.
-Me gusta los melones
-Me gusta las naranjas
+Hola soy victor y tengo conocimiento basico de git
